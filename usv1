@@ -1,0 +1,637 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 group-title="美国频道",新闻频道
+http://doubleclicktv.live:80/70376812/52663544/295937
+#EXTINF:-1 group-title="美国频道",US| CNN News
+http://doubleclicktv.live:80/70376812/52663544/1041
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="美国频道",US| CNBC News
+http://doubleclicktv.live:80/70376812/52663544/1043
+#EXTINF:-1 group-title="美国频道",US| NBC News NOW
+http://doubleclicktv.live:80/70376812/52663544/992
+#EXTINF:-1 group-title="美国频道",US| Newsmax
+http://doubleclicktv.live:80/70376812/52663544/1024
+#EXTINF:-1 group-title="美国频道",US| NewsNation
+http://doubleclicktv.live:80/70376812/52663544/995
+#EXTINF:-1 group-title="美国频道",US| MSNBC
+http://doubleclicktv.live:80/70376812/52663544/1034
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="美国频道",US| ABC News Live
+http://doubleclicktv.live:80/70376812/52663544/1067
+#EXTINF:-1 group-title="美国频道",US| BBC America
+http://doubleclicktv.live:80/70376812/52663544/1066
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="美国频道",US| BBC World News
+http://doubleclicktv.live:80/70376812/52663544/1065
+#EXTINF:-1 group-title="美国频道",US| Fox News
+http://doubleclicktv.live:80/70376812/52663544/1038
+#EXTINF:-1 group-title="美国频道",US| The Grio
+http://doubleclicktv.live:80/70376812/52663544/1063
+#EXTINF:-1 group-title="美国频道",US| C-SPAN 1
+http://doubleclicktv.live:80/70376812/52663544/1061
+#EXTINF:-1 group-title="美国频道",US| C-SPAN 2
+http://doubleclicktv.live:80/70376812/52663544/1060
+#EXTINF:-1 group-title="美国频道",US| C-SPAN 3
+http://doubleclicktv.live:80/70376812/52663544/1059
+#EXTINF:-1 group-title="美国频道",US| CBN News Internationa
+http://doubleclicktv.live:80/70376812/52663544/1058
+#EXTINF:-1 group-title="美国频道",US| CBSN Bay Area
+http://doubleclicktv.live:80/70376812/52663544/1056
+#EXTINF:-1 group-title="美国频道",US| CBSN Boston
+http://doubleclicktv.live:80/70376812/52663544/1055
+#EXTINF:-1 group-title="美国频道",US| CBSN Chicago
+http://doubleclicktv.live:80/70376812/52663544/1054
+#EXTINF:-1 group-title="美国频道",US| CBSN Denver
+http://doubleclicktv.live:80/70376812/52663544/1052
+#EXTINF:-1 group-title="美国频道",US| CBSN Los Angeles
+http://doubleclicktv.live:80/70376812/52663544/1051
+#EXTINF:-1 group-title="美国频道",US| CBSN Minnesota
+http://doubleclicktv.live:80/70376812/52663544/1050
+#EXTINF:-1 group-title="美国频道",US| CBSN New York
+http://doubleclicktv.live:80/70376812/52663544/1049
+#EXTINF:-1 group-title="美国频道",US| CBSN Philly
+http://doubleclicktv.live:80/70376812/52663544/1048
+#EXTINF:-1 group-title="美国频道",US| CBSN Pittsburgh
+http://doubleclicktv.live:80/70376812/52663544/1047
+#EXTINF:-1 group-title="美国频道",US| Fox Business
+http://doubleclicktv.live:80/70376812/52663544/1039
+#EXTINF:-1 group-title="美国频道",US| FOX Weather
+http://doubleclicktv.live:80/70376812/52663544/994
+#EXTINF:-1 group-title="美国频道",US| CNN INTERNATIONAL
+http://doubleclicktv.live:80/70376812/52663544/1040
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="美国频道",US| CNBC World
+http://doubleclicktv.live:80/70376812/52663544/1042
+#EXTINF:-1 group-title="美国频道",US| Cheddar News
+http://doubleclicktv.live:80/70376812/52663544/1044
+#EXTINF:-1 group-title="美国频道",US| Cheddar Business
+http://doubleclicktv.live:80/70376812/52663544/1045
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="美国频道",US| CGTN (English)
+http://doubleclicktv.live:80/70376812/52663544/1046
+#EXTINF:-1 group-title="美国频道",US| CBS News LHD
+http://doubleclicktv.live:80/70376812/52663544/1057
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="美国频道",US| France 24 (English)
+http://doubleclicktv.live:80/70376812/52663544/1037
+#EXTINF:-1 group-title="美国频道",US| RT America
+http://doubleclicktv.live:80/70376812/52663544/1021
+#EXTINF:-1 group-title="美国频道",US| HLN
+http://doubleclicktv.live:80/70376812/52663544/1036
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="美国频道",US| LiveNOW from FOX
+http://doubleclicktv.live:80/70376812/52663544/993
+#EXTINF:-1 group-title="美国频道",US| NBCLX
+http://doubleclicktv.live:80/70376812/52663544/991
+#EXTINF:-1 group-title="美国频道",US| New England Cable New
+http://doubleclicktv.live:80/70376812/52663544/1033
+#EXTINF:-1 group-title="美国频道",US| News 12 Brooklyn
+http://doubleclicktv.live:80/70376812/52663544/1032
+#EXTINF:-1 group-title="美国频道",US| News 12 Connecticut
+http://doubleclicktv.live:80/70376812/52663544/1031
+#EXTINF:-1 group-title="美国频道",US| News 12 Hudson Valley
+http://doubleclicktv.live:80/70376812/52663544/1030
+#EXTINF:-1 group-title="美国频道",US| News 12 Long Island
+http://doubleclicktv.live:80/70376812/52663544/1029
+#EXTINF:-1 group-title="美国频道",US| News 12 New Jersey
+http://doubleclicktv.live:80/70376812/52663544/1028
+#EXTINF:-1 group-title="美国频道",US| News 12 The Bronx
+http://doubleclicktv.live:80/70376812/52663544/1026
+#EXTINF:-1 group-title="美国频道",US| News 12 Westchester
+http://doubleclicktv.live:80/70376812/52663544/1025
+#EXTINF:-1 group-title="美国频道",US| Newsy
+http://doubleclicktv.live:80/70376812/52663544/1023
+#EXTINF:-1 group-title="美国频道",US| NHK World (KCET)
+http://doubleclicktv.live:80/70376812/52663544/1002
+#EXTINF:-1 group-title="美国频道",US| NHK World (WCFE)
+http://doubleclicktv.live:80/70376812/52663544/1001
+#EXTINF:-1 group-title="美国频道",US| NHK World (WNJN)
+http://doubleclicktv.live:80/70376812/52663544/1000
+#EXTINF:-1 group-title="美国频道",US| NHK World (WTVI)
+http://doubleclicktv.live:80/70376812/52663544/999
+#EXTINF:-1 group-title="美国频道",US| NHK World (WUCF)
+http://doubleclicktv.live:80/70376812/52663544/998
+#EXTINF:-1 group-title="美国频道",US| One American News
+http://doubleclicktv.live:80/70376812/52663544/1022
+#EXTINF:-1 group-title="美国频道",US| Spectrum Bay News 9
+http://doubleclicktv.live:80/70376812/52663544/1018
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 1 ROTX
+http://doubleclicktv.live:80/70376812/52663544/1010
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 1 SO CA
+http://doubleclicktv.live:80/70376812/52663544/1016
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 1 Wisco
+http://doubleclicktv.live:80/70376812/52663544/1009
+#EXTINF:-1 group-title="美国频道",US| Spectrum Rail Road SD
+http://doubleclicktv.live:80/70376812/52663544/1003
+#EXTINF:-1 group-title="美国频道",US| TYT Network
+http://doubleclicktv.live:80/70376812/52663544/990
+#EXTINF:-1 group-title="美国频道",US| Weather Nation
+http://doubleclicktv.live:80/70376812/52663544/1020
+#EXTINF:-1 group-title="美国频道",US| Alaska's News Source
+http://doubleclicktv.live:80/70376812/52663544/997
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 1 Buffa
+http://doubleclicktv.live:80/70376812/52663544/306308
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 1 Alban
+http://doubleclicktv.live:80/70376812/52663544/1014
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 13 Cent
+http://doubleclicktv.live:80/70376812/52663544/1008
+#EXTINF:-1 group-title="美国频道",US| Atlanta News First
+http://doubleclicktv.live:80/70376812/52663544/996
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 1 Covin
+http://doubleclicktv.live:80/70376812/52663544/1015
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 1 Evans
+http://doubleclicktv.live:80/70376812/52663544/1011
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 1 Charl
+http://doubleclicktv.live:80/70376812/52663544/1013
+#EXTINF:-1 group-title="美国频道",US| Spectrum News NY1
+http://doubleclicktv.live:80/70376812/52663544/1006
+#EXTINF:-1 group-title="美国频道",US| NY Spectrum Noticias
+http://doubleclicktv.live:80/70376812/52663544/1004
+#EXTINF:-1 group-title="美国频道",US| Infowars
+http://doubleclicktv.live:80/70376812/52663544/1035
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 1 San A
+http://doubleclicktv.live:80/70376812/52663544/1005
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 1 Austi
+http://doubleclicktv.live:80/70376812/52663544/1007
+#EXTINF:-1 group-title="美国频道",US| CBSN Dallas
+http://doubleclicktv.live:80/70376812/52663544/1053
+#EXTINF:-1 group-title="美国频道",US| Spectrum News 1 Dalla
+http://doubleclicktv.live:80/70376812/52663544/1012
+#EXTINF:-1 group-title="美国频道",US| 7 News Boston (WHDH)
+http://doubleclicktv.live:80/70376812/52663544/1019
+#EXTINF:-1 group-title="美国频道",US| BEK Sports News
+http://doubleclicktv.live:80/70376812/52663544/1064
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="美国频道",US| Bloomberg
+http://doubleclicktv.live:80/70376812/52663544/1062
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="美国频道",16K | NATIONAL GEOGRAPHIC
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323573.m3u8
+#EXTINF:-1 group-title="美国频道",8K | NATIONAL GEOGRAPHIC
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/150542.m3u8
+#EXTINF:-1 group-title="美国频道",NL | NATIONAL GEOGRAPHICr
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/18.m3u8
+#EXTINF:-1 group-title="美国频道",UK | NATIONAL GEOGRAPHIC
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/12513.m3u8
+#EXTINF:-1 group-title="美国频道",NL| NATIONAL GEOGRAPHIC F
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1283043&extension=ts&play_token=4xf2oDtohJ
+#EXTINF:-1 group-title="美国频道",NL| NATIONAL GEOGRAPHIC C
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1283272&extension=ts&play_token=yXn3RGHq5L
+#EXTINF:-1 group-title="美国频道",PL| NATIONAL GEOGRAPHIC F
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=880438&extension=ts&play_token=InHRSUchT4
+#EXTINF:-1 group-title="美国频道",ARG | NATIONAL GEOGRAPHIC
+http://doubleclicktv.live:80/70376812/52663544/325178
+#EXTINF:-1 group-title="美国频道",|MX| National Geographic
+http://doubleclicktv.live:80/70376812/52663544/7753
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="美国频道",USA Animal Planet UHD
+http://doubleclicktv.live:80/70376812/52663544/269009
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="美国频道",USA Animal Planet East
+http://doubleclicktv.live:80/70376812/52663544/508
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="美国频道",USA Animal Planet West
+http://doubleclicktv.live:80/70376812/52663544/507
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="美国频道",UK Animal Planet
+http://doubleclicktv.live:80/70376812/52663544/277117
+#EXTINF:-1 group-title="美国频道",体育频道
+http://doubleclicktv.live:80/70376812/52663544/295937
+#EXTINF:-1 group-title="美国频道",US| ESPN 1
+http://doubleclicktv.live:80/70376812/52663544/919
+#EXTINF:-1 group-title="美国频道",US| ESPN 2
+http://doubleclicktv.live:80/70376812/52663544/932
+#EXTINF:-1 group-title="美国频道",US| ESPN U
+http://doubleclicktv.live:80/70376812/52663544/920
+#EXTINF:-1 group-title="美国频道",US| ESPN News
+http://doubleclicktv.live:80/70376812/52663544/922
+#EXTINF:-1 group-title="美国频道",US| NFL Network
+http://doubleclicktv.live:80/70376812/52663544/868
+#EXTINF:-1 group-title="美国频道",US| NBA TV
+http://doubleclicktv.live:80/70376812/52663544/885
+#EXTINF:-1 group-title="美国频道",US| MLB Network
+http://doubleclicktv.live:80/70376812/52663544/891
+#EXTINF:-1 group-title="美国频道",US| MLB Strike Zone
+http://doubleclicktv.live:80/70376812/52663544/890
+#EXTINF:-1 group-title="美国频道",US| NHL Network
+http://doubleclicktv.live:80/70376812/52663544/258265
+#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="美国频道",US| Fox Sports 1
+http://doubleclicktv.live:80/70376812/52663544/915
+#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="美国频道",US| Fox Sports 2
+http://doubleclicktv.live:80/70376812/52663544/914
+#EXTINF:-1 group-title="美国频道",US| ACC Network
+http://doubleclicktv.live:80/70376812/52663544/975
+#EXTINF:-1 group-title="美国频道",US| Golf Channel
+http://doubleclicktv.live:80/70376812/52663544/897
+#EXTINF:-1 group-title="美国频道",US| Fight Network
+http://doubleclicktv.live:80/70376812/52663544/918
+#EXTINF:-1 group-title="美国频道",US| CBS Sports Network
+http://doubleclicktv.live:80/70376812/52663544/934
+#EXTINF:-1 group-title="美国频道",US| Tennis Channel
+http://doubleclicktv.live:80/70376812/52663544/837
+#EXTINF:-1 group-title="美国频道",US| Tennis Channel  2
+http://doubleclicktv.live:80/70376812/52663544/328632
+#EXTINF:-1 group-title="美国频道",US| UFC Channel
+http://doubleclicktv.live:80/70376812/52663544/833
+#EXTINF:-1 group-title="美国频道",US| WWE
+http://doubleclicktv.live:80/70376812/52663544/828
+#EXTINF:-1 group-title="美国频道",US| Stadium
+http://doubleclicktv.live:80/70376812/52663544/846
+#EXTINF:-1 group-title="美国频道",US| Stadium 1
+http://doubleclicktv.live:80/70376812/52663544/845
+#EXTINF:-1 group-title="美国频道",US| Stadium 2
+http://doubleclicktv.live:80/70376812/52663544/844
+#EXTINF:-1 group-title="美国频道",US| Stadium 3
+http://doubleclicktv.live:80/70376812/52663544/843
+#EXTINF:-1 group-title="美国频道",US| Altitude Sports
+http://doubleclicktv.live:80/70376812/52663544/974
+#EXTINF:-1 group-title="美国频道",US| Altitude Sports Alter
+http://doubleclicktv.live:80/70376812/52663544/973
+#EXTINF:-1 group-title="美国频道",US| NBA BET
+http://doubleclicktv.live:80/70376812/52663544/294735
+#EXTINF:-1 group-title="美国频道",US| Bally Sports Detroit
+http://doubleclicktv.live:80/70376812/52663544/274519
+#EXTINF:-1 group-title="美国频道",US| Bally Sports Southwes
+http://doubleclicktv.live:80/70376812/52663544/294731
+#EXTINF:-1 group-title="美国频道",US| NLSE
+http://doubleclicktv.live:80/70376812/52663544/294727
+#EXTINF:-1 group-title="美国频道",US| Triller Tv
+http://doubleclicktv.live:80/70376812/52663544/294382
+#EXTINF:-1 group-title="美国频道",US| SNY Sports
+http://doubleclicktv.live:80/70376812/52663544/287132
+#EXTINF:-1 group-title="美国频道",US| Root Sports plus 2
+http://doubleclicktv.live:80/70376812/52663544/286886
+#EXTINF:-1 group-title="美国频道",US| MSGSN
+http://doubleclicktv.live:80/70376812/52663544/286883
+#EXTINF:-1 group-title="美国频道",US| Bally Sports South Ex
+http://doubleclicktv.live:80/70376812/52663544/286881
+#EXTINF:-1 group-title="美国频道",US| Altitude 2
+http://doubleclicktv.live:80/70376812/52663544/286880
+#EXTINF:-1 group-title="美国频道",US| Bally Sports Detroit
+http://doubleclicktv.live:80/70376812/52663544/285759
+#EXTINF:-1 group-title="美国频道",US| Bally Sports Oklahoma
+http://doubleclicktv.live:80/70376812/52663544/285758
+#EXTINF:-1 group-title="美国频道",US| AT&T SportsNet Pittsb
+http://doubleclicktv.live:80/70376812/52663544/972
+#EXTINF:-1 group-title="美国频道",US| AT&T SportsNet Rocky
+http://doubleclicktv.live:80/70376812/52663544/971
+#EXTINF:-1 group-title="美国频道",US| AT&T Sportsnet Rocky
+http://doubleclicktv.live:80/70376812/52663544/970
+#EXTINF:-1 group-title="美国频道",US| AT&T SportsNet Rocky
+http://doubleclicktv.live:80/70376812/52663544/969
+#EXTINF:-1 group-title="美国频道",US| Space City Home Netwo
+http://doubleclicktv.live:80/70376812/52663544/968
+#EXTINF:-1 group-title="美国频道",US| Bally Sports Arizona
+http://doubleclicktv.live:80/70376812/52663544/967
+#EXTINF:-1 group-title="美国频道",US| Bally Sports Arizona
+http://doubleclicktv.live:80/70376812/52663544/913
+#EXTINF:-1 group-title="美国频道",US| Bally SPORTS CAROLINA
+http://doubleclicktv.live:80/70376812/52663544/966
+#EXTINF:-1 group-title="美国频道",US| Bally Sports Wisconsi
+http://doubleclicktv.live:80/70376812/52663544/902
+#EXTINF:-1 group-title="美国频道",US| BallySports Oklahoma
+http://doubleclicktv.live:80/70376812/52663544/948
+#EXTINF:-1 group-title="美国频道",US| Barstool Sports
+http://doubleclicktv.live:80/70376812/52663544/826
+#EXTINF:-1 group-title="美国频道",US| Bein Sports
+http://doubleclicktv.live:80/70376812/52663544/940
+#EXTINF:-1 group-title="美国频道",US| BeIN Sports 4
+http://doubleclicktv.live:80/70376812/52663544/947
+#EXTINF:-1 group-title="美国频道",US| BeIN Sports 5
+http://doubleclicktv.live:80/70376812/52663544/946
+#EXTINF:-1 group-title="美国频道",US| BeIN Sports 6
+http://doubleclicktv.live:80/70376812/52663544/945
+#EXTINF:-1 group-title="美国频道",US| BeIN Sports 7
+http://doubleclicktv.live:80/70376812/52663544/944
+#EXTINF:-1 group-title="美国频道",US| BeIN Sports 8
+http://doubleclicktv.live:80/70376812/52663544/943
+#EXTINF:-1 group-title="美国频道",US| Bein Sports en Espano
+http://doubleclicktv.live:80/70376812/52663544/942
+#EXTINF:-1 group-title="美国频道",US| BeIN Sports La Liga
+http://doubleclicktv.live:80/70376812/52663544/941
+#EXTINF:-1 group-title="美国频道",US| Bein Sports Xtra
+http://doubleclicktv.live:80/70376812/52663544/939
+#EXTINF:-1 group-title="美国频道",US| Big Ten Network
+http://doubleclicktv.live:80/70376812/52663544/935
+#EXTINF:-1 group-title="美国频道",US| Big Ten Network Overf
+http://doubleclicktv.live:80/70376812/52663544/938
+#EXTINF:-1 group-title="美国频道",US| Big Ten Network Overf
+http://doubleclicktv.live:80/70376812/52663544/937
+#EXTINF:-1 group-title="美国频道",US| Big Ten Network Overf
+http://doubleclicktv.live:80/70376812/52663544/936
+#EXTINF:-1 group-title="美国频道",US| Billiard TV
+http://doubleclicktv.live:80/70376812/52663544/818
+#EXTINF:-1 group-title="美国频道",US| Eleven Sports
+http://doubleclicktv.live:80/70376812/52663544/933
+#EXTINF:-1 group-title="美国频道",US| ESPN
+http://doubleclicktv.live:80/70376812/52663544/923
+#EXTINF:-1 group-title="美国频道",US| ESPN College Extra 1
+http://doubleclicktv.live:80/70376812/52663544/930
+#EXTINF:-1 group-title="美国频道",US| ESPN College Extra 2
+http://doubleclicktv.live:80/70376812/52663544/929
+#EXTINF:-1 group-title="美国频道",US| ESPN College Extra 3
+http://doubleclicktv.live:80/70376812/52663544/928
+#EXTINF:-1 group-title="美国频道",US| ESPN College Extra 4
+http://doubleclicktv.live:80/70376812/52663544/927
+#EXTINF:-1 group-title="美国频道",US| ESPN College Extra 5
+http://doubleclicktv.live:80/70376812/52663544/926
+#EXTINF:-1 group-title="美国频道",US| ESPN College Extra 6
+http://doubleclicktv.live:80/70376812/52663544/925
+#EXTINF:-1 group-title="美国频道",US| ESPN College Extra 7
+http://doubleclicktv.live:80/70376812/52663544/924
+#EXTINF:-1 group-title="美国频道",US| ESPN SEC Network
+http://doubleclicktv.live:80/70376812/52663544/921
+#EXTINF:-1 group-title="美国频道",US| ESPN SEC+
+http://doubleclicktv.live:80/70376812/52663544/823
+#EXTINF:-1 group-title="美国频道",US| FanDuel Racing
+http://doubleclicktv.live:80/70376812/52663544/814
+#EXTINF:-1 tvg-id="7186" tvg-name="ELTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eltv.png" group-title="美国频道",US| FanDuel TV
+http://doubleclicktv.live:80/70376812/52663544/815
+#EXTINF:-1 group-title="美国频道",US| FNTSY Sports Network
+http://doubleclicktv.live:80/70376812/52663544/917
+#EXTINF:-1 group-title="美国频道",US| Fox Soccer Plus
+http://doubleclicktv.live:80/70376812/52663544/916
+#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="美国频道",US| Fox Sports Netbase
+http://doubleclicktv.live:80/70376812/52663544/910
+#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="美国频道",US| Fox Sports Sun (South
+http://doubleclicktv.live:80/70376812/52663544/904
+#EXTINF:-1 group-title="美国频道",US| Fubo Sports Network
+http://doubleclicktv.live:80/70376812/52663544/900
+#EXTINF:-1 group-title="美国频道",US| Ginx TV
+http://doubleclicktv.live:80/70376812/52663544/899
+#EXTINF:-1 group-title="美国频道",US| GOL TV (ENG)
+http://doubleclicktv.live:80/70376812/52663544/898
+#EXTINF:-1 group-title="美国频道",US| Hunt Channel
+http://doubleclicktv.live:80/70376812/52663544/896
+#EXTINF:-1 group-title="美国频道",US| IMPACT Wrestling Chan
+http://doubleclicktv.live:80/70376812/52663544/819
+#EXTINF:-1 group-title="美国频道",US| Longhorn Network
+http://doubleclicktv.live:80/70376812/52663544/895
+#EXTINF:-1 group-title="美国频道",US| Marquee Sports Networ
+http://doubleclicktv.live:80/70376812/52663544/894
+#EXTINF:-1 group-title="美国频道",US| MASN
+http://doubleclicktv.live:80/70376812/52663544/893
+#EXTINF:-1 group-title="美国频道",US| MASN 2
+http://doubleclicktv.live:80/70376812/52663544/892
+#EXTINF:-1 group-title="美国频道",US| MSG
+http://doubleclicktv.live:80/70376812/52663544/889
+#EXTINF:-1 group-title="美国频道",US| MSG2
+http://doubleclicktv.live:80/70376812/52663544/888
+#EXTINF:-1 group-title="美国频道",US| MSG Plus
+http://doubleclicktv.live:80/70376812/52663544/887
+#EXTINF:-1 group-title="美国频道",US| MSG 2 Plus
+http://doubleclicktv.live:80/70376812/52663544/886
+#EXTINF:-1 group-title="美国频道",US| NBC Sports Peacock
+http://doubleclicktv.live:80/70376812/52663544/274813
+#EXTINF:-1 group-title="美国频道",US| NBC Golf Pass (PC)
+http://doubleclicktv.live:80/70376812/52663544/824
+#EXTINF:-1 group-title="美国频道",US| NBC Sports Bay Area P
+http://doubleclicktv.live:80/70376812/52663544/883
+#EXTINF:-1 group-title="美国频道",US| NBC Sports California
+http://doubleclicktv.live:80/70376812/52663544/880
+#EXTINF:-1 group-title="美国频道",US| NBC Sports Chicago Pl
+http://doubleclicktv.live:80/70376812/52663544/877
+#EXTINF:-1 group-title="美国频道",US| NBC Sports Philadelph
+http://doubleclicktv.live:80/70376812/52663544/873
+#EXTINF:-1 group-title="美国频道",US| NBC Sports Washington
+http://doubleclicktv.live:80/70376812/52663544/871
+#EXTINF:-1 group-title="美国频道",US| NESN
+http://doubleclicktv.live:80/70376812/52663544/869
+#EXTINF:-1 group-title="美国频道",US| NESN Plus
+http://doubleclicktv.live:80/70376812/52663544/870
+#EXTINF:-1 group-title="美国频道",US| NFL Channel (PC)
+http://doubleclicktv.live:80/70376812/52663544/825
+#EXTINF:-1 group-title="美国频道",US| PAC-12 Arizona
+http://doubleclicktv.live:80/70376812/52663544/864
+#EXTINF:-1 group-title="美国频道",US| PAC-12 Bay Area
+http://doubleclicktv.live:80/70376812/52663544/863
+#EXTINF:-1 group-title="美国频道",US| PAC-12 LOS ANGELES
+http://doubleclicktv.live:80/70376812/52663544/862
+#EXTINF:-1 group-title="美国频道",US| PAC-12 Mountain
+http://doubleclicktv.live:80/70376812/52663544/860
+#EXTINF:-1 group-title="美国频道",US| PAC-12 Network
+http://doubleclicktv.live:80/70376812/52663544/865
+#EXTINF:-1 group-title="美国频道",US| PAC-12 Oregon
+http://doubleclicktv.live:80/70376812/52663544/859
+#EXTINF:-1 group-title="美国频道",US| PAC-12 Oregon 2
+http://doubleclicktv.live:80/70376812/52663544/858
+#EXTINF:-1 group-title="美国频道",US| PAC-12 Washington
+http://doubleclicktv.live:80/70376812/52663544/857
+#EXTINF:-1 group-title="美国频道",US| PlayersTV
+http://doubleclicktv.live:80/70376812/52663544/816
+#EXTINF:-1 group-title="美国频道",US| PX Sports
+http://doubleclicktv.live:80/70376812/52663544/856
+#EXTINF:-1 group-title="美国频道",US| Root Sports
+http://doubleclicktv.live:80/70376812/52663544/855
+#EXTINF:-1 group-title="美国频道",US| Root Sports Northwest
+http://doubleclicktv.live:80/70376812/52663544/854
+#EXTINF:-1 group-title="美国频道",US| Root Sports Plus
+http://doubleclicktv.live:80/70376812/52663544/853
+#EXTINF:-1 group-title="美国频道",US| Spectrum SportsNet LA
+http://doubleclicktv.live:80/70376812/52663544/852
+#EXTINF:-1 group-title="美国频道",US| Spectrum SportsNet La
+http://doubleclicktv.live:80/70376812/52663544/851
+#EXTINF:-1 group-title="美国频道",US| Spectrum SportsNet La
+http://doubleclicktv.live:80/70376812/52663544/850
+#EXTINF:-1 group-title="美国频道",US| SportsGrid
+http://doubleclicktv.live:80/70376812/52663544/817
+#EXTINF:-1 group-title="美国频道",US| Sportsman
+http://doubleclicktv.live:80/70376812/52663544/849
+#EXTINF:-1 group-title="美国频道",US| SportsNet New York FH
+http://doubleclicktv.live:80/70376812/52663544/848
+#EXTINF:-1 group-title="美国频道",US| SportsNet New York SN
+http://doubleclicktv.live:80/70376812/52663544/847
+#EXTINF:-1 group-title="美国频道",US| TCN_Sports_Philadelfi
+http://doubleclicktv.live:80/70376812/52663544/842
+#EXTINF:-1 group-title="美国频道",US| Tennis Channel
+http://doubleclicktv.live:80/70376812/52663544/841
+#EXTINF:-1 group-title="美国频道",US| Tennis Channel Plus 1
+http://doubleclicktv.live:80/70376812/52663544/840
+#EXTINF:-1 group-title="美国频道",US| Tennis Channel Plus 2
+http://doubleclicktv.live:80/70376812/52663544/839
+#EXTINF:-1 group-title="美国频道",US| Tennis Channel Plus 3
+http://doubleclicktv.live:80/70376812/52663544/838
+#EXTINF:-1 group-title="美国频道",US| Tennis Channel Plus 4
+http://doubleclicktv.live:80/70376812/52663544/295796
+#EXTINF:-1 group-title="美国频道",US| Tennis Channel Plus 5
+http://doubleclicktv.live:80/70376812/52663544/295797
+#EXTINF:-1 group-title="美国频道",US| Tennis Channel Plus 6
+http://doubleclicktv.live:80/70376812/52663544/295798
+#EXTINF:-1 group-title="美国频道",US| Tennis channel plus 7
+http://doubleclicktv.live:80/70376812/52663544/295799
+#EXTINF:-1 group-title="美国频道",US| Tennis Channel Plus 8
+http://doubleclicktv.live:80/70376812/52663544/295800
+#EXTINF:-1 group-title="美国频道",US| Tennis Channel Plus 9
+http://doubleclicktv.live:80/70376812/52663544/295801
+#EXTINF:-1 group-title="美国频道",US| TVG Network
+http://doubleclicktv.live:80/70376812/52663544/836
+#EXTINF:-1 group-title="美国频道",US| TVG 2 Network
+http://doubleclicktv.live:80/70376812/52663544/835
+#EXTINF:-1 group-title="美国频道",US| TyC Sports
+http://doubleclicktv.live:80/70376812/52663544/834
+#EXTINF:-1 group-title="美国频道",US| VSIN
+http://doubleclicktv.live:80/70376812/52663544/832
+#EXTINF:-1 group-title="美国频道",US| Willow Cricket
+http://doubleclicktv.live:80/70376812/52663544/831
+#EXTINF:-1 group-title="美国频道",US| Willow Cricket Extra
+http://doubleclicktv.live:80/70376812/52663544/830
+#EXTINF:-1 group-title="美国频道",US| World Fishing Network
+http://doubleclicktv.live:80/70376812/52663544/829
+#EXTINF:-1 group-title="美国频道",US| Poker Go
+http://doubleclicktv.live:80/70376812/52663544/821
+#EXTINF:-1 group-title="美国频道",US| YES Network
+http://doubleclicktv.live:80/70376812/52663544/827
+#EXTINF:-1 group-title="美国频道",US| NFL Red zone
+http://doubleclicktv.live:80/70376812/52663544/867
+#EXTINF:-1 group-title="美国频道",US| Olympic Channel
+http://doubleclicktv.live:80/70376812/52663544/866
+#EXTINF:-1 group-title="美国频道",少儿频道
+http://doubleclicktv.live:80/70376812/52663544/295937
+#EXTINF:-1 group-title="美国频道",US| MeTV Toons
+http://doubleclicktv.live:80/70376812/52663544/494103
+#EXTINF:-1 group-title="美国频道",US| BET West
+http://doubleclicktv.live:80/70376812/52663544/1153
+#EXTINF:-1 group-title="美国频道",US| BET SOUL
+http://doubleclicktv.live:80/70376812/52663544/1154
+#EXTINF:-1 group-title="美国频道",US| BET Jams
+http://doubleclicktv.live:80/70376812/52663544/1155
+#EXTINF:-1 group-title="美国频道",US| BET Gospel
+http://doubleclicktv.live:80/70376812/52663544/1156
+#EXTINF:-1 group-title="美国频道",US| Baby First
+http://doubleclicktv.live:80/70376812/52663544/1177
+#EXTINF:-1 group-title="美国频道",US| Baby TV
+http://doubleclicktv.live:80/70376812/52663544/1176
+#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="美国频道",US| Boomerang
+http://doubleclicktv.live:80/70376812/52663544/1175
+#EXTINF:-1 group-title="美国频道",US| Cartoon Network
+http://doubleclicktv.live:80/70376812/52663544/1174
+#EXTINF:-1 group-title="美国频道",US| Cartoon Network West
+http://doubleclicktv.live:80/70376812/52663544/1173
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="美国频道",US| Disney Channel
+http://doubleclicktv.live:80/70376812/52663544/1172
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="美国频道",US| Disney Channel West
+http://doubleclicktv.live:80/70376812/52663544/1171
+#EXTINF:-1 group-title="美国频道",US| Disney Junior
+http://doubleclicktv.live:80/70376812/52663544/1170
+#EXTINF:-1 group-title="美国频道",US| Disney Junior West
+http://doubleclicktv.live:80/70376812/52663544/1169
+#EXTINF:-1 group-title="美国频道",US| Disney XD
+http://doubleclicktv.live:80/70376812/52663544/1168
+#EXTINF:-1 group-title="美国频道",US| Disney XD West
+http://doubleclicktv.live:80/70376812/52663544/1167
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="美国频道",US| Nick Jr
+http://doubleclicktv.live:80/70376812/52663544/1166
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="美国频道",US| Nick Jr West
+http://doubleclicktv.live:80/70376812/52663544/1165
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="美国频道",US| Nickelodeon
+http://doubleclicktv.live:80/70376812/52663544/1162
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="美国频道",US| Nickelodeon West
+http://doubleclicktv.live:80/70376812/52663544/1161
+#EXTINF:-1 group-title="美国频道",US| Nicktoons
+http://doubleclicktv.live:80/70376812/52663544/1164
+#EXTINF:-1 group-title="美国频道",US| Nicktoons West
+http://doubleclicktv.live:80/70376812/52663544/1163
+#EXTINF:-1 group-title="美国频道",US| PBS Kids
+http://doubleclicktv.live:80/70376812/52663544/1160
+#EXTINF:-1 group-title="美国频道",US| TeenNick
+http://doubleclicktv.live:80/70376812/52663544/1159
+#EXTINF:-1 group-title="美国频道",US| TeenNick West
+http://doubleclicktv.live:80/70376812/52663544/1158
+#EXTINF:-1 group-title="美国频道",US| Universal Kids
+http://doubleclicktv.live:80/70376812/52663544/1157
+#EXTINF:-1 group-title="美国频道",US| American Heroes
+http://doubleclicktv.live:80/70376812/52663544/509
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="美国频道",US| Animal Planet East
+http://doubleclicktv.live:80/70376812/52663544/508
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="美国频道",US| Animal Planet West
+http://doubleclicktv.live:80/70376812/52663544/507
+#EXTINF:-1 group-title="美国频道",US| Cooking Channel
+http://doubleclicktv.live:80/70376812/52663544/482
+#EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="美国频道",US| Crime & Investigation
+http://doubleclicktv.live:80/70376812/52663544/479
+#EXTINF:-1 group-title="美国频道",US| Destination America
+http://doubleclicktv.live:80/70376812/52663544/476
+#EXTINF:-1 group-title="美国频道",US| Discovery East
+http://doubleclicktv.live:80/70376812/52663544/475
+#EXTINF:-1 group-title="美国频道",US| Discovery Español
+http://doubleclicktv.live:80/70376812/52663544/474
+#EXTINF:-1 group-title="美国频道",US| Discovery Familia
+http://doubleclicktv.live:80/70376812/52663544/473
+#EXTINF:-1 group-title="美国频道",US| Discovery Family
+http://doubleclicktv.live:80/70376812/52663544/472
+#EXTINF:-1 group-title="美国频道",US| Discovery Life
+http://doubleclicktv.live:80/70376812/52663544/470
+#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="美国频道",US| Discovery Science
+http://doubleclicktv.live:80/70376812/52663544/469
+#EXTINF:-1 group-title="美国频道",US| Discovery Velocity
+http://doubleclicktv.live:80/70376812/52663544/468
+#EXTINF:-1 group-title="美国频道",US| Discovery West
+http://doubleclicktv.live:80/70376812/52663544/467
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="美国频道",US| History Military
+http://doubleclicktv.live:80/70376812/52663544/433
+#EXTINF:-1 group-title="美国频道",US| ID East
+http://doubleclicktv.live:80/70376812/52663544/430
+#EXTINF:-1 group-title="美国频道",US| ID West
+http://doubleclicktv.live:80/70376812/52663544/429
+#EXTINF:-1 group-title="美国频道",US| NASA
+http://doubleclicktv.live:80/70376812/52663544/408
+#EXTINF:-1 group-title="美国频道",US| Nat Geo East
+http://doubleclicktv.live:80/70376812/52663544/407
+#EXTINF:-1 group-title="美国频道",US| Smithsonian Channel
+http://doubleclicktv.live:80/70376812/52663544/381
+#EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="美国频道",US| Travel Channel West
+http://doubleclicktv.live:80/70376812/52663544/362
+#EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="美国频道",US| Travel Channel
+http://doubleclicktv.live:80/70376812/52663544/363
+#EXTINF:-1 group-title="美国频道",US| PBS (KQED) San Franci
+http://doubleclicktv.live:80/70376812/52663544/2228
+#EXTINF:-1 group-title="美国频道",US| PBS (KRCB) CA | Rohne
+http://doubleclicktv.live:80/70376812/52663544/2227
+#EXTINF:-1 group-title="美国频道",US| New York | PBS WNET
+http://doubleclicktv.live:80/70376812/52663544/2172
+#EXTINF:-1 group-title="美国频道",娱乐频道
+http://doubleclicktv.live:80/70376812/52663544/295937
+#EXTINF:-1 group-title="美国频道",US| Comedy Central
+http://doubleclicktv.live:80/70376812/52663544/295936
+#EXTINF:-1 group-title="美国频道",US| OWN West
+http://doubleclicktv.live:80/70376812/52663544/295794
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="美国频道",US| Lifetime West
+http://doubleclicktv.live:80/70376812/52663544/295793
+#EXTINF:-1 group-title="美国频道",US| Flix east
+http://doubleclicktv.live:80/70376812/52663544/295792
+#EXTINF:-1 group-title="美国频道",US| Christian Television
+http://doubleclicktv.live:80/70376812/52663544/295791
+#EXTINF:-1 group-title="美国频道",US| Free Speech TV
+http://doubleclicktv.live:80/70376812/52663544/295790
+#EXTINF:-1 group-title="美国频道",US| Victory Channel
+http://doubleclicktv.live:80/70376812/52663544/295777
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="美国频道",US| AMC West
+http://doubleclicktv.live:80/70376812/52663544/295775
+#EXTINF:-1 group-title="美国频道",US| Bravo West
+http://doubleclicktv.live:80/70376812/52663544/295774
+#EXTINF:-1 group-title="美国频道",US| CMT West
+http://doubleclicktv.live:80/70376812/52663544/295773
+#EXTINF:-1 group-title="美国频道",US| Flix West
+http://doubleclicktv.live:80/70376812/52663544/295772
+#EXTINF:-1 group-title="美国频道",US| FX West
+http://doubleclicktv.live:80/70376812/52663544/295771
+#EXTINF:-1 group-title="美国频道",US| FYI West
+http://doubleclicktv.live:80/70376812/52663544/295770
+#EXTINF:-1 group-title="美国频道",US| GSN West
+http://doubleclicktv.live:80/70376812/52663544/295769
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="美国频道",US| History West
+http://doubleclicktv.live:80/70376812/52663544/295768
+#EXTINF:-1 group-title="美国频道",US| Logo West
+http://doubleclicktv.live:80/70376812/52663544/295767
+#EXTINF:-1 group-title="美国频道",US| Nat Geo West
+http://doubleclicktv.live:80/70376812/52663544/295766
+#EXTINF:-1 group-title="美国频道",US| CuriosityStream
+http://doubleclicktv.live:80/70376812/52663544/297870
+#EXTINF:-1 group-title="美国频道",US| Choppertown
+http://doubleclicktv.live:80/70376812/52663544/297869
+#EXTINF:-1 group-title="美国频道",US| Hope Channel
+http://doubleclicktv.live:80/70376812/52663544/295423
+#EXTINF:-1 group-title="美国频道",US| AKC TV
+http://doubleclicktv.live:80/70376812/52663544/295360
+#EXTINF:-1 group-title="美国频道",US| Great American Faith
+http://doubleclicktv.live:80/70376812/52663544/294920
+#EXTINF:-1 group-title="美国频道",US| Adult Swim
+http://doubleclicktv.live:80/70376812/52663544/294917
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="美国频道",US| ABC
+http://doubleclicktv.live:80/70376812/52663544/1281
+#EXTINF:-1 group-title="美国频道",US| CBS
+http://doubleclicktv.live:80/70376812/52663544/253197
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="美国频道",US| FOX
+http://doubleclicktv.live:80/70376812/52663544/253196
+#EXTINF:-1 group-title="美国频道",US| NBC
+http://doubleclicktv.live:80/70376812/52663544/253198
+#EXTINF:-1 group-title="美国频道",US| CW
+http://doubleclicktv.live:80/70376812/52663544/253199
