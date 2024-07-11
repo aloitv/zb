@@ -105,6 +105,7 @@ http://doubleclicktv.live:80/70376812/52663544/1019
 http://doubleclicktv.live:80/70376812/52663544/1064
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="美国频道",US| Bloomberg
 http://doubleclicktv.live:80/70376812/52663544/1062
+
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="美国频道",16K | NATIONAL GEOGRAPHIC
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",8K | NATIONAL GEOGRAPHIC
@@ -133,12 +134,14 @@ http://117.114.153.25:8180/TV00000000000000000073@HHZT
 http://117.114.153.25:8180/TV00000000000000000074@HHZT
 #EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="国际频道",好莱坞电影
 http://117.114.153.25:8180/TV00000000000000000075@HHZT
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",CNN新闻
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",CNA新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",香港35台
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",NOW星影
 http://60.30.198.43:5080/香蕉哥/now星影/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",NOW爆谷
@@ -159,6 +162,7 @@ http://111.230.195.119:80/香蕉哥/jtbc/hls.m3u8
 http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="国际频道",TVB翡翠2
 http://111.160.76.101:80/香蕉哥/tvb翡翠.live.flv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",TVB星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",TVB功夫台
@@ -171,14 +175,14 @@ http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="国际频道",大爱频道1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="国际频道",大爱频道2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="国际频道",八大戏剧
-http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",中华小当家
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="国际频道",三立戏剧
@@ -199,15 +203,5 @@ http://61.221.215.25:8800/hls/56/index.m3u8
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="国际频道",八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="国际频道",八大综合台
-http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",八大第1台
-http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="国际频道",三立戏剧台
-http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="国际频道",AMC电影台
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",探索亚洲
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="国际频道",动物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
+
+
