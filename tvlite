@@ -43,18 +43,9 @@ http://doubleclicktv.live:80/70376812/52663544/1026
 http://doubleclicktv.live:80/70376812/52663544/1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Newsy
 http://doubleclicktv.live:80/70376812/52663544/1023
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NHK World (KCET)
-http://doubleclicktv.live:80/70376812/52663544/1002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NHK World (WCFE)
-http://doubleclicktv.live:80/70376812/52663544/1001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NHK World (WNJN)
-http://doubleclicktv.live:80/70376812/52663544/1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NHK World (WTVI)
-http://doubleclicktv.live:80/70376812/52663544/999
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NHK World (WUCF)
-http://doubleclicktv.live:80/70376812/52663544/998
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| One American News
 http://doubleclicktv.live:80/70376812/52663544/1022
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum Bay News 9
 http://doubleclicktv.live:80/70376812/52663544/1018
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 ROTX
@@ -65,6 +56,7 @@ http://doubleclicktv.live:80/70376812/52663544/1016
 http://doubleclicktv.live:80/70376812/52663544/1009
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum Rail Road SD
 http://doubleclicktv.live:80/70376812/52663544/1003
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| TYT Network
 http://doubleclicktv.live:80/70376812/52663544/990
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Weather Nation
@@ -106,10 +98,6 @@ http://doubleclicktv.live:80/70376812/52663544/1064
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="美国频道",US| Bloomberg
 http://doubleclicktv.live:80/70376812/52663544/1062
 
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="美国频道",16K | NATIONAL GEOGRAPHIC
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",8K | NATIONAL GEOGRAPHIC
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/150542.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
@@ -139,7 +127,7 @@ http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="国际频道",大爱频道1
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="国际频道",大爱频道
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",TVBS NEWS
@@ -162,7 +150,7 @@ http://61.221.215.25:8800/hls/55/index.m3u8
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="国际频道",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="国际频道",八大戏剧台
+#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="国际频道",八大戏剧
 http://61.221.215.25:8800/hls/39/index.m3u8
 
 
