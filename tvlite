@@ -144,9 +144,12 @@ http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="国际频道",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
 
-
-CNN 美国：https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-CNN 美国：https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-CNN 美国：http://185.177.125.251:8080/cnn/index.m3u8
-CNN 美国：https://i.mjh.nz/SamsungTVPlus/ITBD19000097D.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN1" tvg-logo="" group-title="CNN"
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN2" tvg-logo="" group-title="CNN"
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN3" tvg-logo="" group-title="CNN"
+http://185.177.125.251:8080/cnn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN4" tvg-logo="" group-title="CNN"
+https://i.mjh.nz/SamsungTVPlus/ITBD19000097D.m3u8
 
