@@ -1,102 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CNN News
-http://doubleclicktv.live:80/70376812/52663544/1041
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="美国频道",US| CNBC News
-http://doubleclicktv.live:80/70376812/52663544/1043
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBN News Internationa
-http://doubleclicktv.live:80/70376812/52663544/1058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBSN Bay Area
-http://doubleclicktv.live:80/70376812/52663544/1056
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBSN Boston
-http://doubleclicktv.live:80/70376812/52663544/1055
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBSN Chicago
-http://doubleclicktv.live:80/70376812/52663544/1054
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBSN Denver
-http://doubleclicktv.live:80/70376812/52663544/1052
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBSN Los Angeles
-http://doubleclicktv.live:80/70376812/52663544/1051
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBSN Minnesota
-http://doubleclicktv.live:80/70376812/52663544/1050
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBSN New York
-http://doubleclicktv.live:80/70376812/52663544/1049
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBSN Philly
-http://doubleclicktv.live:80/70376812/52663544/1048
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBSN Pittsburgh
-http://doubleclicktv.live:80/70376812/52663544/1047
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Fox Business
-http://doubleclicktv.live:80/70376812/52663544/1039
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| New England Cable New
-http://doubleclicktv.live:80/70376812/52663544/1033
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| News 12 Brooklyn
-http://doubleclicktv.live:80/70376812/52663544/1032
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| News 12 Connecticut
-http://doubleclicktv.live:80/70376812/52663544/1031
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| News 12 Hudson Valley
-http://doubleclicktv.live:80/70376812/52663544/1030
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| News 12 Long Island
-http://doubleclicktv.live:80/70376812/52663544/1029
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| News 12 New Jersey
-http://doubleclicktv.live:80/70376812/52663544/1028
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| News 12 The Bronx
-http://doubleclicktv.live:80/70376812/52663544/1026
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| News 12 Westchester
-http://doubleclicktv.live:80/70376812/52663544/1025
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Newsy
-http://doubleclicktv.live:80/70376812/52663544/1023
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| One American News
-http://doubleclicktv.live:80/70376812/52663544/1022
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum Bay News 9
-http://doubleclicktv.live:80/70376812/52663544/1018
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 ROTX
-http://doubleclicktv.live:80/70376812/52663544/1010
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 SO CA
-http://doubleclicktv.live:80/70376812/52663544/1016
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 Wisco
-http://doubleclicktv.live:80/70376812/52663544/1009
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum Rail Road SD
-http://doubleclicktv.live:80/70376812/52663544/1003
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| TYT Network
-http://doubleclicktv.live:80/70376812/52663544/990
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Weather Nation
-http://doubleclicktv.live:80/70376812/52663544/1020
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Alaska's News Source
-http://doubleclicktv.live:80/70376812/52663544/997
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 Buffa
-http://doubleclicktv.live:80/70376812/52663544/306308
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 Alban
-http://doubleclicktv.live:80/70376812/52663544/1014
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 13 Cent
-http://doubleclicktv.live:80/70376812/52663544/1008
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Atlanta News First
-http://doubleclicktv.live:80/70376812/52663544/996
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 Covin
-http://doubleclicktv.live:80/70376812/52663544/1015
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 Evans
-http://doubleclicktv.live:80/70376812/52663544/1011
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 Charl
-http://doubleclicktv.live:80/70376812/52663544/1013
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News NY1
-http://doubleclicktv.live:80/70376812/52663544/1006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NY Spectrum Noticias
-http://doubleclicktv.live:80/70376812/52663544/1004
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Infowars
-http://doubleclicktv.live:80/70376812/52663544/1035
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 San A
-http://doubleclicktv.live:80/70376812/52663544/1005
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 Austi
-http://doubleclicktv.live:80/70376812/52663544/1007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBSN Dallas
-http://doubleclicktv.live:80/70376812/52663544/1053
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| Spectrum News 1 Dalla
-http://doubleclicktv.live:80/70376812/52663544/1012
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| 7 News Boston (WHDH)
-http://doubleclicktv.live:80/70376812/52663544/1019
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| BEK Sports News
-http://doubleclicktv.live:80/70376812/52663544/1064
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="美国频道",US| Bloomberg
-http://doubleclicktv.live:80/70376812/52663544/1062
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -117,19 +19,13 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPla
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",TVB星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",TVB功夫台
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",TVB娱乐新闻
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",TVB亚洲武侠
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际频道",TVBS NEWS
-http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="国际频道",三立戏剧
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="国际频道",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="国际频道",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
@@ -159,9 +55,6 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| ABC 7
-http://41.205.93.154/ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
