@@ -144,12 +144,34 @@ http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="国际频道",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN1" tvg-logo="" group-title="CNN"
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN2" tvg-logo="" group-title="CNN"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN3" tvg-logo="" group-title="CNN"
-http://185.177.125.251:8080/cnn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN4" tvg-logo="" group-title="CNN"
-https://i.mjh.nz/SamsungTVPlus/ITBD19000097D.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| ABC 7
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NASA
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NBC Chicago
+NBC Chicago：https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| BNC Home
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NEWSMAX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
