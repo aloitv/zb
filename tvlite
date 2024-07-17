@@ -26,23 +26,23 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="国际频道",NHK WORLD
 http://61.221.215.25:8800/hls/51/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US | CNN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CGTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBS News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| CBN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| ABC News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NASA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| NBC Chicago
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",NBC Chicago
 NBC Chicago：https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",US| BNC Home
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="美国频道",BNC Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="美国频道",US| NEWSMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="美国频道",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsNet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="美国频道",NewsNet
