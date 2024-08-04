@@ -2,16 +2,6 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 
-#EXTINF:-1 group-title="🌈版本时间:2024-08-03",版本时间:2024-08-03
-http://175.178.179.152:1888/PLTV/play.php?id=NV2bpRUufq&uid=MVHDEJ83CPT
-#EXTINF:-1 group-title="🌈版本时间:2024-08-03",看前刷新配置页到最新
-http://175.178.179.152:1888/PLTV/play.php?id=CKQI2ItKkJ&uid=MVHDEJ83CPT
-#EXTINF:-1 group-title="🌈到期时间:2024-09-01",到期时间:2024-09-01
-http://175.178.179.152:1888/ad/shqun.m3u8
-#EXTINF:-1 group-title="🌈卡顿请选择自己不卡的组",卡顿切换自己不卡的分组
-http://175.178.179.152:1888/PLTV/play.php?id=g8uRy7YWm4&uid=MVHDEJ83CPT
-#EXTINF:-1 group-title="🌈有问题点我扫码找人工",扫码找人工
-http://175.178.179.152:1888/PLTV/play.php?id=NV2bpRUufq&uid=MVHDEJ83CPT
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://w.7w.gs/epg.php?c=/logo/CCTV1.png" group-title="IPV4丨官方高码",CCTV1
 http://175.178.179.152:1888/PLTV/play.php?id=tebv0PwdLE&uid=MVHDEJ83CPT
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://w.7w.gs/epg.php?c=/logo/CCTV2.png" group-title="IPV4丨官方高码",CCTV2
