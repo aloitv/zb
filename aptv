@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://w.7w.gs/epg.php"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL http://175.178.179.152/MVHDEJ83CPT
 
 #EXTINF:-1 group-title="🌈版本时间:2024-08-03",版本时间:2024-08-03
 http://175.178.179.152:1888/PLTV/play.php?id=NV2bpRUufq&uid=MVHDEJ83CPT
